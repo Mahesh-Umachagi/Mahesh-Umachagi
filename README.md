@@ -1,12 +1,10 @@
 ### Hi there 👋 I'm Mahesh a Fullstack Developer and a Tech Enthusiast 🚀
-### Likes to build awesome Web Applications and always eager to learn new things in Tech 
+    Likes to build awesome Web Applications and always eager to learn new things in Tech 
 
 ### My skills are~~~  ✒  
-
-    c, Java, Javascript, Typescript, Python
+    c Java, Javascript, Typescript, Python
 
 ### I Work on~~~ 💻  
-
     Angular6+, React
     
     Node.js, Express.js, NestJs
