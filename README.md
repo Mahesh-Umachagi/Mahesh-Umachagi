@@ -29,4 +29,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-(https://visitor-badge.glitch.me/badge?page_id=page.id=Mahesh-Umachagi.Mahesh-Umachagi)
+
+                    ![visitors](https://visitor-badge.glitch.me/badge?page_id=Mahesh-umachagi.Mahesh-Umachagi)
