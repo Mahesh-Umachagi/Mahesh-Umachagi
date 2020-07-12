@@ -2,7 +2,7 @@
     Likes to build awesome Web Applications and always eager to learn new things in Tech 
 
 ### My skills are~~~  ✒  
-    c Java, Javascript, Typescript, Python
+    c, Java, Javascript, Typescript, Python
 
 ### I Work on~~~ 💻  
     Angular6+, React
