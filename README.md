@@ -29,4 +29,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Mahesh's github stats](https://github-readme-stats.vercel.app/api?username=Mahesh-Umachagi&show_icons=true&hide_border=true)
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Mahesh-umachagi.Mahesh-Umachagi)
+
