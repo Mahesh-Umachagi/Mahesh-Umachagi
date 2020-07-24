@@ -12,8 +12,7 @@
     MySQL, PostgreSQL, MongoDB
     
     Docker, Heroku
-    
-    
+
 
 <!--
 **Mahesh-Umachagi/Mahesh-Umachagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,9 +27,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 ![Mahesh's github stats](https://github-readme-stats.vercel.app/api?username=Mahesh-Umachagi&show_icons=true&hide_border=true)
+-->
 
+<img src="https://github-readme-stats.vercel.app/api?username=Mahesh-Umachagi&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=0a192f" width="55%"/>
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Mahesh-umachagi.Mahesh-Umachagi)
 
