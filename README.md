@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ![Mahesh's github stats](https://github-readme-stats.vercel.app/api?username=Mahesh-Umachagi&show_icons=true&hide_border=true)
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mahesh-Umachagi&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=0a192f" width="55%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Mahesh-Umachagi&&show_icons=true&title_color=ffffff&icon_color=bb2ac&text_color=ffffff&bg_color=293556" width="55%"/>
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Mahesh-umachagi.Mahesh-Umachagi)
 
