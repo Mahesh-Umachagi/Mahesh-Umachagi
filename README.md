@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Mahesh-umachagi.Mahesh-Umachagi)
 -->
 
+<a href="https://www.upwork.com/ag/everindia/"><img size="50px" src="https://img.shields.io/badge/Upwork-6fda44?logo=upwork&logoColor=white" /></a>
+
 <img src="https://github-readme-stats.vercel.app/api?username=Mahesh-Umachagi&&show_icons=true&title_color=ffffff&icon_color=bb2ac&text_color=ffffff&bg_color=293556" width="55%"/>
 
 
