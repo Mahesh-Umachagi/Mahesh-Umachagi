@@ -29,11 +29,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ![Mahesh's github stats](https://github-readme-stats.vercel.app/api?username=Mahesh-Umachagi&show_icons=true&hide_border=true)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Mahesh-umachagi.Mahesh-Umachagi)
+<img src="https://github-readme-stats.vercel.app/api?username=Mahesh-Umachagi&&show_icons=true&count_private=true&include_all_commits=true&title_color=ffffff&icon_color=bb2ac&text_color=ffffff&bg_color=293556" width="55%"/>
 -->
 
 <a href="https://www.upwork.com/ag/everindia/"><img size="50px" src="https://img.shields.io/badge/Upwork-6fda44?logo=upwork&logoColor=white" /></a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mahesh-Umachagi&&show_icons=true&title_color=ffffff&icon_color=bb2ac&text_color=ffffff&bg_color=293556" width="55%"/>
+
+![Mahesh's github stats](https://github-readme-stats.vercel.app/api?username=Mahesh-Umachagi&theme=dark&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahesh-Umachagi&show=TeX&layout=compact&theme=dark)
+<br>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Mahesh-Umachagi.Mahesh-Umachagi)
 
 
 
