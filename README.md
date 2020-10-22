@@ -45,8 +45,8 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=Mahesh-Umachagi&&show_icons=true&count_private=true&include_all_commits=true&title_color=ffffff&icon_color=bb2ac&text_color=ffffff&bg_color=293556" width="55%"/>
 -->
 
-<a href="https:https://www.upwork.com/o/profiles/users/~01005986e6a47e630b/"><img size="50px" src="https://img.shields.io/badge/Upwork-6fda44?&logo=upwork&logoColor=white" target="_blank" /></a>
-<a href="https:https://www.linkedin.com/in/mahesh-umachagi/"><img size="50px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?e&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.upwork.com/o/profiles/users/~01005986e6a47e630b/"><img size="50px" src="https://img.shields.io/badge/Upwork-6fda44?&logo=upwork&logoColor=white" target="_blank" /></a>
+<a href="https://www.linkedin.com/in/mahesh-umachagi/"><img size="50px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?e&logo=linkedin&logoColor=white" /></a>
 	
 
 ![Mahesh's github stats](https://github-readme-stats.vercel.app/api?username=Mahesh-Umachagi&count_private=true&theme=dark&show_icons=true)
