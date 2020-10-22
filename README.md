@@ -1,17 +1,30 @@
-### Hi there 👋 I'm Mahesh a Fullstack Developer and a Tech Enthusiast 🚀
+### ನಮಸ್ತೆ [Hello] 👋 I'm Mahesh a Fullstack Developer and a Tech Enthusiast 🚀
     Likes to build awesome Web Applications and always eager to learn new things in Tech 
 
-### My skills are~~~  ✒  
-    c, Java, Javascript, Typescript, Python
+### Languages Technologies and Tools 
+  
+<a><img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+<img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+<img src="https://img.icons8.com/color/48/000000/typescript.png"/>
+<img src="https://img.icons8.com/color/48/000000/python.png"/>
+<br>
+<img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+<img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
+<img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+<br>
+<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+<img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
+<img src="https://img.icons8.com/color/48/000000/mysql.png"/>
+<br>
+<img src="https://img.icons8.com/color/48/000000/docker.png"/>
+<img src="https://img.icons8.com/color/48/000000/git.png"/>
 
-### I Work on~~~ 💻  
-    Angular6+, React
-    
-    Node.js, Express.js, NestJs
-    
-    MySQL, PostgreSQL, MongoDB
-    
-    Docker, Heroku
+
+
 
 
 <!--
@@ -32,8 +45,9 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=Mahesh-Umachagi&&show_icons=true&count_private=true&include_all_commits=true&title_color=ffffff&icon_color=bb2ac&text_color=ffffff&bg_color=293556" width="55%"/>
 -->
 
-<a href="https://www.upwork.com/ag/everindia/"><img size="50px" src="https://img.shields.io/badge/Upwork-6fda44?logo=upwork&logoColor=white" /></a>
-
+<a href="https:https://www.upwork.com/o/profiles/users/~01005986e6a47e630b/"><img size="50px" src="https://img.shields.io/badge/Upwork-6fda44?&logo=upwork&logoColor=white" /></a>
+<a href="https:https://www.linkedin.com/in/mahesh-umachagi/"><img size="50px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?e&logo=linkedin&logoColor=white" /></a>
+	
 
 ![Mahesh's github stats](https://github-readme-stats.vercel.app/api?username=Mahesh-Umachagi&count_private=true&theme=dark&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahesh-Umachagi&show=TeX&layout=compact&theme=dark)
