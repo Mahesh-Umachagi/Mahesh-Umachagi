@@ -50,6 +50,7 @@ Here are some ideas to get you started:
 
 <a href="https://www.upwork.com/o/profiles/users/~01005986e6a47e630b/"><img size="50px" src="https://img.shields.io/badge/Upwork-6fda44?&logo=upwork&logoColor=white" target="_blank" /></a>
 <a href="https://www.linkedin.com/in/mahesh-umachagi/"><img size="50px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?e&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/mahesh_umachagi"><img size="50px" src="https://img.shields.io/badge/twitter-00acee.svg?e&logo=twitter&logoColor=white" /></a>
 	
 
 ![Mahesh's github stats](https://github-readme-stats.vercel.app/api?username=Mahesh-Umachagi&count_private=true&theme=dark&show_icons=true)
