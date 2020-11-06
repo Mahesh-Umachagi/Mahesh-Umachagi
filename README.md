@@ -6,25 +6,25 @@
 
 ### Languages Technologies and Tools 
   
-<a><img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-<img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-<img src="https://img.icons8.com/color/48/000000/typescript.png"/>
-<img src="https://img.icons8.com/color/48/000000/python.png"/>
+<a><img src="https://img.icons8.com/color/48/000000/c-programming.png" width="30" height="30"/></a>
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="30" height="30"/>
+<img src="https://img.icons8.com/color/48/000000/javascript.png" width="30" height="30"/>
+<img src="https://img.icons8.com/color/48/000000/typescript.png" width="30" height="30"/>
+<img src="https://img.icons8.com/color/48/000000/python.png" width="30" height="30"/>
 <br>
-<img src="https://img.icons8.com/color/48/000000/html-5.png"/>
-<img src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-<img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
-<img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+<img src="https://img.icons8.com/color/48/000000/html-5.png" width="30" height="30"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png" width="30" height="30"/>
+<img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="30" height="30"/>
+<img src="https://img.icons8.com/color/48/000000/angularjs.png" width="30" height="30"/>
+<img src="https://img.icons8.com/color/48/000000/react-native.png" width="30" height="30"/>
 <br>
-<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-<img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
-<img src="https://img.icons8.com/color/48/000000/mysql.png"/>
+<img src="https://img.icons8.com/color/48/000000/nodejs.png" width="30" height="30"/>
+<img src="https://img.icons8.com/color/48/000000/mongodb.png" width="30" height="30"/>
+<img src="https://img.icons8.com/color/48/000000/postgreesql.png" width="30" height="30"/>
+<img src="https://img.icons8.com/color/48/000000/mysql.png" width="30" height="30"/>
 <br>
-<img src="https://img.icons8.com/color/48/000000/docker.png"/>
-<img src="https://img.icons8.com/color/48/000000/git.png"/>
+<img src="https://img.icons8.com/color/48/000000/docker.png" width="30" height="30"/>
+<img src="https://img.icons8.com/color/48/000000/git.png" width="30" height="30"/>
 
 
 
