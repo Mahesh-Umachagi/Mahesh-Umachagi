@@ -1,5 +1,5 @@
-### ನಮಸ್ತೆ [Hello] 👋 I'm Mahesh a Fullstack Developer and a Tech Enthusiast 🚀
-  #  Likes to build awesome Web Applications and always eager to learn new things in Tech 
+## ನಮಸ್ತೆ [Hello] 👋 I'm Mahesh a Fullstack Developer and a Tech Enthusiast 🚀
+  ###  Likes to build awesome Web Applications and always eager to learn new things in Tech 
     
 
 ### Languages Technologies and Tools 
